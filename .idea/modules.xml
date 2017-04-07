@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArduinoManagerCentral.iml" filepath="$PROJECT_DIR$/.idea/modules/ArduinoManagerCentral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArduinoManagerCentral_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ArduinoManagerCentral_main.iml" group="ArduinoManagerCentral" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArduinoManagerCentral_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ArduinoManagerCentral_test.iml" group="ArduinoManagerCentral" />
+    </modules>
+  </component>
+</project>
